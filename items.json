@@ -1,0 +1,7655 @@
+{
+    "USP-S | Ancient Visions": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "USP-S | Black Lotus": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Blood Tiger": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "USP-S | Blueprint": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Business Class": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Caiman": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "USP-S | Check Engine": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Cortex": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Cyrex": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Dark Water": {
+        "float": {
+            "(Minimal Wear)": true,
+            "(Field-Tested)": true
+        }
+    },
+    "USP-S | Flashback": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Forest Leaves": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Guardian": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "USP-S | Kill Confirmed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Lead Conduit": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Monster Mashup": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Neo-Noir": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Night Ops": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Orange Anolis": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "USP-S | Orion": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Overgrowth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Para Green": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "USP-S | Pathfinder": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "USP-S | Purple DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Road Rash": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Royal Blue": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Serum": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "USP-S | Stainless": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Target Acquired": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | The Traitor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Ticket to Hell": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Torque": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "USP-S | Whiteout": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Aquamarine Revenge": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Asiimov": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Baroque Purple": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Black Laminate": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Bloodsport": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Blue Laminate": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Cartel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Case Hardened": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Elite Build": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Emerald Pinstripe": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Fire Serpent": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "AK-47 | First Class": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Frontside Misty": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Fuel Injector": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Gold Arabesque": {
+        "float": {
+            "(Field-Tested)": true
+        }
+    },
+    "AK-47 | Green Laminate": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Hydroponic": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "AK-47 | Jaguar": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Jet Set": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Jungle Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Leet Museo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Legion of Anubis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Neon Revolution": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Neon Rider": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Nightwish": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Orbit Mk01": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Panthera onca": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Phantom Disruptor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Point Disarray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Predator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Rat Rod": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Red Laminate": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Redline": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Safari Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Safety Net": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Slate": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | The Empress": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Uncharted": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Vulcan": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | Wasteland Rebel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AK-47 | X-Ray": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Asiimov": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Bullet Rain": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Buzz Kill": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Converter": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Cyber Security": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Dark Blossom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Daybreak": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Desert Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Desert-Strike": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Desolate Space": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Evil Daimyo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Faded Zebra": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Global Offensive": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Griffin": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Hellfire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | In Living Color": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Jungle Tiger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Magnesium": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Mainframe": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Modern Hunter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Neo-Noir": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Poseidon": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A4 | Radiation Hazard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Red DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Royal Paladin": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Spider Lily": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | The Battlestar": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | The Coalition": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | The Emperor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Tooth Fairy": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Tornado": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | Urban DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | X-Ray": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A4 | Zirka": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A4 | 龍王": {
+        "float": {
+            "(Dragon King)": true
+        }
+    },
+    "AUG | Akihabara Accept": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Amber Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Amber Slipstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Anodized Navy": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AUG | Arctic Wolf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Aristocrat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Bengal Tiger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Carved Jade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "AUG | Chameleon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Colony": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Condemned": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Contractor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Copperhead": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AUG | Daedalus": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Death by Puppy": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Flame Jörmungandr": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Fleet Flock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Hot Rod": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AUG | Midnight Lily": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Momentum": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Navy Murano": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Plague": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Radiation Hazard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Random Access": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Ricochet": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Sand Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Spalted Wood": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Stymphalian": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Surveillance": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Sweeper": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Syd Mead": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Tom Cat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Torque": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Triqua": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AUG | Wings": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Atomic Alloy": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Basilisk": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Blood Tiger": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Blue Phosphor": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Boreal Forest": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Briefing": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Bright Water": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Chantico's Fire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Control Panel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Cyrex": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Dark Water": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Decimator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Fizzy POP": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Flashback": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Golden Coil": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Guardian": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Hot Rod": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Hyper Beast": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Icarus Fell": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "M4A1-S | Imminent Danger": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Leaded Glass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Master Piece": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Mecha Industries": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Moss Quartz": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Night Terror": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Nightmare": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Nitro": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Player Two": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Printstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | VariCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M4A1-S | Welcome to the Jungle": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Acheron": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Asiimov": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Atheris": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | BOOM": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Capillary": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Containment Breach": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Corticera": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Electric Hive": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Elite Build": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Exoskeleton": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Fade": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Fever Dream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Graphite": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Hyper Beast": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Lightning Strike": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Man-o'-war": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "AWP | Mortis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Neo-Noir": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Oni Taiji": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | PAW": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Phobos": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Pink DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Pit Viper": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | POP AWP": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Redline": {
+        "float": {
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Safari Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Silk Tiger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Snake Camo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Sun in Leo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Wildfire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "AWP | Worm God": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Blaze": {
+        "float": {}
+    },
+    "Desert Eagle | Blue Ply": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Bronze Deco": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Cobalt Disruption": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Code Red": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Conspiracy": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Corinthian": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Crimson Web": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Directive": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Emerald Jörmungandr": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Fennec Fox": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Golden Koi": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Hand Cannon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Heirloom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Hypnotic": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Kumicho Dragon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Light Rail": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Mecha Industries": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Meteorite": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Midnight Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Mudder": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Naga": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Night": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Night Heist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Ocean Drive": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Oxide Blaze": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Pilot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Printstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Sputnik": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Sunset Storm 壱": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Sunset Storm 弐": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | The Bronze": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Desert Eagle | Trigger Discipline": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Urban DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Desert Eagle | Urban Rubble": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Anodized Navy": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Dual Berettas | Balance": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Black Limba": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Briar": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Dual Berettas | Cartel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Cobalt Quartz": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Cobra Strike": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Colony": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Contractor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Demolition": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Dezastre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Drift Wood": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Dualing Dragons": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Duelist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Elite 1.6": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Emerald": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Dual Berettas | Heist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Hemoglobin": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Dual Berettas | Marina": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Melondrama": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Moon in Libra": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Oil Change": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Panther": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Pyre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Retribution": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Royal Consorts": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Shred": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Stained": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Switch Board": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Tread": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Twin Turbo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Urban Shock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Dual Berettas | Ventilators": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Afterimage": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | CaliCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Colony": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Commemoration": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Contrast Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Crypsis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Cyanospatter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Dark Water": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "FAMAS | Decommissioned": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Djinn": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Doomkitty": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "FAMAS | Eye of Athena": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Faulty Wiring": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Hexane": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Macabre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Mecha Industries": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Meltdown": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Neural Net": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Night Borre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Prime Conspiracy": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Pulse": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Rapid Eye Movement": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Roll Cage": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Sergeant": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Spitfire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Styx": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Sundown": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Survivor Z": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Teardown": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | Valence": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "FAMAS | ZX Spectron": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Angry Mob": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Anodized Gunmetal": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Berries And Cherries": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Boost Protocol": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Buddy": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Candy Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Capillary": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Case Hardened": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Contractor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Coolant": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Copper Galaxy": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Crimson Blossom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Fairy Tale": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Fall Hazard": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Flame Test": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Forest Night": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Fowl Play": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Hot Shot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Hyper Beast": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Jungle": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Kami": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Monkey Business": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Neon Kimono": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Nightshade": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Nitro": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Orange Peel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Retrobution": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Scrawl": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Scumbria": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Silver Quartz": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Triumvirate": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Urban Hazard": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Five-SeveN | Violent Daimyo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Five-SeveN | Withered Vine": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Ancient Ritual": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Arctic Camo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Azure Zebra": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "G3SG1 | Black Sand": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Chronos": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Contractor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Demeter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Desert Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Digital Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Dream Glade": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Flux": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Green Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "G3SG1 | High Seas": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Hunter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Jungle Dashed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Keeping Tabs": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Murky": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "G3SG1 | New Roots": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Orange Crash": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Orange Kimono": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Polar Camo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Safari Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Scavenger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Stinger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | The Executioner": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | VariCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Ventilator": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "G3SG1 | Violet Murano": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Akoben": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Amber Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Aqua Terrace": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Black Sand": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Blue Titanium": {
+        "float": {}
+    },
+    "Galil AR | CAUTION!": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Cerberus": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Chatterbox": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Chromatic Aberration": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Cold Fusion": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Connexion": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Crimson Tsunami": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Dusk Ruins": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Eco": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Firefight": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Hunting Blind": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Kami": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Orange DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Phoenix Blacklight": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Rocket Pop": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Sage Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Sandstorm": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Shattered": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Signal": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Stone Cold": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Sugar Rush": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Galil AR | Tornado": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Tuxedo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Urban Rubble": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Vandal": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | VariCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Galil AR | Winter Forest": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Blue Fissure": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Brass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Bullet Queen": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Bunsen Burner": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Candy Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Catacombs": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Clear Polymer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Death Rattle": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Dragon Tattoo": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Fade": {
+        "float": {}
+    },
+    "Glock-18 | Franklin": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Gamma Doppler": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Grinder": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Groundwater": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | High Beam": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Ironwork": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Moonrise": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Neo-Noir": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Night": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Nuclear Garden": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Off World": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Oxide Blaze": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Pink DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Reactor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Red Tire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Royal Legion": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Sacrifice": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Sand Dune": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Snack Attack": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Steel Disruption": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Synth Leaf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Twilight Galaxy": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Glock-18 | Vogue": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Warhawk": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Wasteland Rebel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Water Elemental": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Weasel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Glock-18 | Wraiths": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Aztec": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Blizzard Marbleized": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Contrast Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Deep Relief": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Emerald Poison Dart": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Gator Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Humidor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Impact Drill": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Jungle": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Jungle DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Magma": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Midnight Palm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Nebula Crusader": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | O.S.I.P.R.": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Predator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Shipping Forecast": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Spectre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | System Lock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "M249 | Warbird": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Allure": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Aloha": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Amber Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Button Masher": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Calf Skin": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Candy Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MAC-10 | Carnivore": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Case Hardened": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Classic Crate": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Commuter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Copper Borre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Curse": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Disco Tech": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Ensnared": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Fade": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MAC-10 | Gold Brick": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Graven": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Heat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Hot Snakes": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Indigo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Lapis Gator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Last Dive": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Malachite": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Neon Rider": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Nuclear Garden": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Oceanic": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Palm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Pipe Down": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Propaganda": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Rangeen": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Red Filigree": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Sienna Damask": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Silver": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MAC-10 | Stalker": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Strats": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Surfwood": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Tatter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Tornado": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Toybox": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Ultraviolet": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Urban DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAC-10 | Whitefish": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | BI83 Spectrum": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Bulldozer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Carbon Fiber": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Chainmail": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Cinquedea": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Cobalt Core": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Core Breach": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Counter Terrace": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Firestarter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Foresight": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Hard Water": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Hazard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Heat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Heaven Guard": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Irradiated Alert": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Justice": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Memento": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Metallic DDPAT": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Monster Call": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Navy Sheen": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Petroglyph": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Popdog": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Praetorian": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Prism Terrace": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Rust Coat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Sand Dune": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Seabird": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Silver": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MAG-7 | Sonar": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MAG-7 | SWAG-7": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Acid Wash": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Agent": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Autumn Twilly": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Bamboo Garden": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Co-Processor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Condition Zero": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Desert Strike": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Dirt Drop": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Gauss": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Kitbash": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Necro Jr.": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Nitro": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Oxide Oasis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP5-SD | Phosphor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Abyssal Apparition": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Akoben": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Anodized Navy": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MP7 | Armor Core": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Army Recon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Asterion": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Bloodsport": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Cirrus": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP7 | Forest DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Full Stop": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Groundwater": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Guerrilla": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Gunsmoke": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Impire": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Mischief": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Motherboard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Nemesis": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP7 | Neon Ply": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Ocean Foam": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MP7 | Olive Plaid": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Orange Peel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Powercore": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Prey": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Scorched": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Skulls": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MP7 | Special Delivery": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Tall Grass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Teal Blossom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Urban Hazard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Vault Heist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP7 | Whiteout": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Airlock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Army Sheen": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Bioleak": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Black Sand": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Bulldozer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Capillary": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Dark Age": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Dart": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Deadly Poison": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Dry Season": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Food Chain": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Goo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Green Plaid": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Hot Rod": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Hydra": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Hypnotic": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Modest Threat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Mount Fuji": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Music Box": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Old Roots": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Orange Peel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Pandora's Box": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Rose Iron": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "MP9 | Ruby Poison Dart": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Sand Dashed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Sand Scale": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Setting Sun": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Slide": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Stained Glass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Starlight Protector": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "MP9 | Wild Lily": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Negev | Anodized Navy": {
+        "float": {
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Negev | Army Sheen": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Negev | Boroque Sand": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Bratatat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Bulkhead": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | CaliCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Dazzle": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Desert-Strike": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | dev_texture": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Infrastructure": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Lionfish": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Loudmouth": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Man-o'-war": {
+        "float": {
+            "(Minimal Wear)": true,
+            "(Field-Tested)": true
+        }
+    },
+    "Negev | Mjölnir": {
+        "float": {
+            "(Field-Tested)": true
+        }
+    },
+    "Negev | Nuclear Waste": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "Negev | Palm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Phoenix Stencil": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Power Loader": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Prototype": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Negev | Terrain": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "Negev | Ultralight": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Antique": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Army Sheen": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Baroque Orange": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Blaze Orange": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Bloomstick": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Caged Steel": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Candy Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Clear Polymer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Exo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Forest Leaves": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Ghost Camo": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Gila": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Graphite": {
+        "float": {
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Green Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Hyper Beast": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Interlock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Koi": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Mandrel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Modern Hunter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Moon in Libra": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Plume": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Polar Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Predator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Quick Sand": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Ranger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Red Quartz": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Rising Skull": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Rust Coat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Sand Dune": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Tempest": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Factory New)": true
+        }
+    },
+    "Nova | Toy Soldier": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Walnut": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Wild Six": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Windblown": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "Nova | Wood Fired": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true,
+            "(Battle-Scarred)": true
+        }
+    },
+    "P2000 | Acid Etched": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Amber Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Chainmail": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Coach Class": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Corticera": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Dispatch": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Fire Elemental": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Gnarled": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Granite Marbleized": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Grassland": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Grassland Leaves": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Handgun": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Imperial": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Imperial Dragon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Ivory": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Lifted Spirits": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Obsidian": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Ocean Foam": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Oceanic": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Panther Camo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Pathfinder": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Pulse": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Red FragCam": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Scorpion": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Silver": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P2000 | Space Race": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Turf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Urban Hazard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P2000 | Woodsman": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Asiimov": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Bengal Tiger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Black & Tan": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Bone Mask": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Boreal Forest": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Cartel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Cassette": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Contaminant": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Contamination": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Crimson Kimono": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Cyber Shell": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Dark Filigree": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Digital Architect": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Drought": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Exchanger": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Facets": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Facility Draft": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Forest Night": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Franklin": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Gunsmoke": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Hive": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P250 | Inferno": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Iron Clad": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Mehndi": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Metallic DDPAT": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P250 | Mint Kimono": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Modern Hunter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Muertos": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Nevermore": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Nuclear Threat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Red Rock": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Ripple": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Sand Dune": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | See Ya Later": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Splash": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P250 | Steel Disruption": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P250 | Supernova": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Undertow": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P250 | Valence": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Verdigris": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Vino Primo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Whiteout": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | Wingshot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P250 | X-Ray": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P90 | Ancient Earth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Ash Wood": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Asiimov": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Astral Jörmungandr": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Baroque Red": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Blind Spot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Chopper": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Cocoa Rampage": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Cold Blooded": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P90 | Death by Kitty": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "P90 | Death Grip": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Desert DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Desert Warfare": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Elite Build": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Emerald Dragon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Facility Negative": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Fallout Warning": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Freight": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Glacier Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Grim": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Leather": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Module": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "P90 | Nostalgia": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Off World": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Run and Hide": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Sand Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Schematic": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Scorched": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Shallow Grave": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Shapewood": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Sunset Lily": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Teardown": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Tiger Pit": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Traction": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Trigon": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Verdant Growth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "P90 | Virus": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Anolis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Antique": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Bamboo Print": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Blue Streak": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Brass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Breaker Box": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Candy Apple": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "PP-Bizon | Carbon Fiber": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "PP-Bizon | Chemical Green": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Cobalt Halftone": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Death Rattle": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Embargo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Facility Sketch": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Forest Leaves": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Fuel Rod": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Harvester": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | High Roller": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Irradiated Alert": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Judgement of Anubis": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Jungle Slipstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Lumen": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "PP-Bizon | Modern Hunter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true
+        }
+    },
+    "R8 Revolver | Amber Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Blaze": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "R8 Revolver | Bone Forged": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Bone Mask": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Canal Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Crimson Web": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Desert Brush": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Fade": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Grip": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Junk Yard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Llama Cannon": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Memento": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Night": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Nitro": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Phoenix Marker": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Reboot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Skull Crusher": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "R8 Revolver | Survivalist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Army Sheen": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "SCAR-20 | Assault": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Bloodsport": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Blueprint": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Brass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Carbon Fiber": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SCAR-20 | Cardiac": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Contractor": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Crimson Web": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Cyrex": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Emerald": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SCAR-20 | Enforcer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Green Marine": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Grotto": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Jungle Slipstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Magna Carta": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Outbreak": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Palm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Poultrygeist": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Powercore": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Sand Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SCAR-20 | Splash Jam": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Abyss": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Acid Fade": {
+        "float": {}
+    },
+    "SSG 08 | Big Iron": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Blood in the Water": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "SSG 08 | Bloodshot": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Blue Spruce": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Carbon Fiber": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SSG 08 | Dark Water": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SSG 08 | Death Strike": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Death's Head": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Detour": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Dragonfire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Fever Dream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Ghost Crusader": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Hand Brake": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Jungle Dashed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Lichen Dashed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Mainframe 001": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Mayan Dreams": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Necropos": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Orange Filigree": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Parallax": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Prey": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Red Stone": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Sand Dune": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Sea Calico": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Slashed": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Spring Twilly": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Threat Detected": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Tropical Storm": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SSG 08 | Turbo Peek": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Army Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Avalanche": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Bamboo Forest": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Bamboozle": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Blast From the Past": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Blue Titanium": {
+        "float": {}
+    },
+    "Tec-9 | Brass": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Brother": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Cracked Opal": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Cut Out": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Decimator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Flash Out": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Fubar": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Fuel Injector": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Groundwater": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Hades": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Ice Cap": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Isaac": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Jambiya": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Nuclear Threat": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Orange Murano": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Ossified": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "Tec-9 | Phoenix Chalk": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Re-Entry": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Red Quartz": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Remote Control": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Rust Leaf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Safety Net": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Sandstorm": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Snek-9": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Terrace": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Titanium Bit": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "Tec-9 | Tornado": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Toxic": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | Urban DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "Tec-9 | VariCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Arctic Wolf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Blaze": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "UMP-45 | Bone Pile": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "UMP-45 | Briefing": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Caramel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Carbon Fiber": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "UMP-45 | Corporal": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Crime Scene": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Day Lily": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Delusion": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "UMP-45 | Exposure": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Facility Dark": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Fade": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "UMP-45 | Fallout Warning": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Full Stop": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Gold Bismuth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Grand Prix": {
+        "float": {}
+    },
+    "UMP-45 | Gunsmoke": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Houndstooth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Indigo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Labyrinth": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Mechanism": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Metal Flowers": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Minotaur's Labyrinth": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Momentum": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Moonrise": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Mudder": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Oscillator": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Plastique": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Primal Saber": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Riot": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Scaffold": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Scorched": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "UMP-45 | Urban DDPAT": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Ancient Lore": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Banana Leaf": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Black Tie": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Blaze Orange": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Blue Spruce": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Blue Steel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Blue Tire": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Bone Machine": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | CaliCamo": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Charter": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Elegant Vines": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "XM1014 | Entombed": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Fallout Warning": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Frost Borre": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Grassland": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Heaven Guard": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Incinegator": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Jungle": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Oxide Blaze": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Quicksilver": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Red Leather": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Red Python": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Scumbria": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Seasons": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Slipstream": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Teclu Burner": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Tranquility": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Urban Perforated": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | VariCamo Blue": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Watchdog": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | XOXO": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Ziggy": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "XM1014 | Zombie Offensive": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Aerial": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Aloha": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Anodized Navy": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SG 553 | Army Sheen": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true
+        }
+    },
+    "SG 553 | Atlas": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Barricade": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Bleached": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Bulldozer": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Candy Apple": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Colony IV": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Cyrex": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Damascus Steel": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Danger Close": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Darkwing": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Desert Blossom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Fallout Warning": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Gator Mesh": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Hazard Pay": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Heavy Metal": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Hypnotic": {
+        "float": {
+            "(Minimal Wear)": true
+        }
+    },
+    "SG 553 | Integrale": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Lush Ruins": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Ol' Rusty": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Phantom": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Pulse": {
+        "float": {
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Tiger Moth": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Tornado": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Traveler": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Triarch": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Ultraviolet": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Wave Spray": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    },
+    "SG 553 | Waves Perforated": {
+        "float": {
+            "(Factory New)": true,
+            "(Field-Tested)": true,
+            "(Minimal Wear)": true,
+            "(Well-Worn)": true
+        }
+    }
+}
